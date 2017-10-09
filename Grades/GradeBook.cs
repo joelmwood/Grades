@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Grades
 {
-    class GradeBook
+    public class GradeBook
     {
         List<float> grades;
 
